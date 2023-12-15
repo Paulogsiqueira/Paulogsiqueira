@@ -3,7 +3,7 @@
 - 🔭 Tenho interesse em trabalhar com front-end
 - 🌱 Atualmente estou estudando React.js
 - 📫 Contato: pgustavo-siqueira@hotmail.com
-- Portifólio : <a href="https://portifolio-react-orcin.vercel.app/"> Portifólio </a>
+- 💻 Portifólio : <a href="https://portifolio-react-orcin.vercel.app/"> Portifólio </a>
 
  <details>
   <summary>👨‍💻 Mais informações</summary>
