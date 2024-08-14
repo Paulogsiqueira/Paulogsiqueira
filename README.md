@@ -1,7 +1,7 @@
 ### Olá! E sou o Paulo Gustavo Siqueira <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px" />
 
 - 🔭 Tenho interesse em trabalhar com front-end
-- 🌱 Atualmente estou estudando React.js
+- 🌱 Atualmente estou estudando Next.js
 - 📫 Contato: pgustavo-siqueira@hotmail.com
 - 💻 Portifólio : <a href="https://portifolio-react-orcin.vercel.app/"> Portifólio </a>
 
