@@ -8,7 +8,7 @@
 <details>
  <summary>👨‍💻 Mais informações</summary>
 
- - Atualmente tenho 29 anos e moro em Bauru - São Paulo. Sou formado em Engenharia Mecânica, tenho experiência com Análise de Processos Industriais e Melhoria Contínua de Processos. Decidi migrar para área de tecnologia após usar Python para desenvolver um RPA que gerasse um relatório diariamente, depois disso comecei a estudar mais sobre a Área de Tecnologia e Desenvolvimento. Iniciei minha segunda graduação em Análise e Desenvolvimento de Sistemas em 2022, a partir desse momento me identifiquei com a área de Front-End e venho estudando tecnologias desde então.
+ - Atualmente tenho 29 anos e moro em Bauru - São Paulo. Sou formado em Engenharia Mecânica, tenho experiência com Análise de Processos Industriais e Melhoria Contínua de Processos. Decidi migrar para área de tecnologia após usar Python para desenvolver um RPA que gerasse um relatório diariamente, depois disso comecei a estudar mais sobre a Área de Tecnologia e Desenvolvimento. Iniciei minha segunda graduação em Análise e Desenvolvimento de Sistemas em 2022, a partir desse momento me identifiquei com a área de Full-Stack e venho estudando tecnologias desde então.
 
 </details>
 
